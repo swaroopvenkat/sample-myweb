@@ -1,0 +1,5 @@
+projectKey=in.javahome:myweb
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/in.javahome:myweb
+ceTaskId=AVqCf2XxgQoKMcUsZLux
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVqCf2XxgQoKMcUsZLux
