@@ -42,7 +42,7 @@
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
             <!-- <url>http://192.168.43.244:8081/nexus/content/repositories/snapshots/</url> -->
-			<url>http://localhost:8082/nexus/content/repositories/snapshots/</url>
+			<url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
 			<uniqueVersion>false</uniqueVersion>
         </snapshotRepository>
     </distributionManagement>
